@@ -2,6 +2,18 @@
 
 ![](https://github.com/lazyeyesdao/lazyeyes_art_engine/blob/main/Logo.png)
 
+To find out more please visit:
+
+[📺 TikTok](https://www.tiktok.com/@lazyeyes.site)
+
+[👄 Discord](https://discord.gg/kkDdqRzSgu)
+
+[💬 Telegram](https://t.me/lazyeyesdao_group)
+
+[🐦 Twitter](https://twitter.com/lazyeyesdao)
+
+[ℹ️ Website](https://lazyeyes.site/)
+
 ## Installation 🛠️
 
 If you are cloning the project then run this first, otherwise you can download the source code on the release page and skip this step.
