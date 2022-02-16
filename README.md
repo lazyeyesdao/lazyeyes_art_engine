@@ -1,1 +1,1 @@
-# Source Code from "How To Create An ENTIRE NFT Collection (10,000+)
+# Source Code from "How To Create An ENTIRE NFT Collection (10,000+)"
