@@ -18,8 +18,6 @@ To find out more please visit:
 
 # LazyEyes Art Engine 🔥
 
-![](https://github.com/lazyeyesdao/lazyeyes_art_engine/blob/main/Banner.png)
-
 Create generative art by using the canvas api and node js. Before you use the generation engine, make sure you have node.js(v10.18.0) installed.
 
 ## Installation 🛠️
