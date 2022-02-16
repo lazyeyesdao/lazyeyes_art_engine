@@ -8,7 +8,7 @@ To find out more please visit:
 
 [📺 TikTok](https://www.tiktok.com/@lazyeyes.site)
 
-[👄 Discord](https://discord.gg/kkDdqRzSgu)
+[👁 Discord](https://discord.gg/kkDdqRzSgu)
 
 [💬 Telegram](https://t.me/lazyeyesdao_group)
 
