@@ -2,6 +2,8 @@
 
 ![](https://github.com/lazyeyesdao/lazyeyes_art_engine/blob/main/Logo.png)
 
+Documentation: https://lazy-eyes.gitbook.io/overview/university/minting-contracts-and-storage-nfts
+
 To find out more please visit:
 
 [📺 TikTok](https://www.tiktok.com/@lazyeyes.site)
